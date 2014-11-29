@@ -1,4 +1,3 @@
-Motivote-Server
-===============
+# MOTIVOTE - ULTIMATE VOTE REWARD SCRIPT - SERVER #
 
-This is the server-sided library to Motivote.
+Detailed tutorial: http://rspserver.com/motivote
