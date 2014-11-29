@@ -1,3 +1,3 @@
-# MOTIVOTE - ULTIMATE VOTE REWARD SCRIPT - SERVER #
+# MOTIVOTE - SERVER #
 
 Detailed tutorial: http://rspserver.com/motivote
